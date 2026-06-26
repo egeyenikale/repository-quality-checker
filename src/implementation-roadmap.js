@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2026-06-26",
   "message": "feat: add validation rules for secret scan"
 };
+
+export const stage10 = {
+  "date": "2026-06-26",
+  "message": "feat: add reporting view for artifact scan"
+};
