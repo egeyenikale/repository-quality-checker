@@ -44,3 +44,7 @@ feat: add reporting view for artifact scan
 
 feat: add export or integration support for similarity check
 
+## 2026-06-29 - Stage 12
+
+refactor: improve service boundaries for json report
+
