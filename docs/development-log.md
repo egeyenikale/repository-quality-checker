@@ -40,3 +40,7 @@ feat: add validation rules for secret scan
 
 feat: add reporting view for artifact scan
 
+## 2026-06-29 - Stage 11
+
+feat: add export or integration support for similarity check
+

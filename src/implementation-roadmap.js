@@ -48,3 +48,8 @@ export const stage10 = {
   "date": "2026-06-26",
   "message": "feat: add reporting view for artifact scan"
 };
+
+export const stage11 = {
+  "date": "2026-06-29",
+  "message": "feat: add export or integration support for similarity check"
+};
